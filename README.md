@@ -20,6 +20,10 @@ Store all the dictionaries in a Python list.
 
 Print the list in your notebook.
 
+
+
+
+
 Optionally, store the scraped data in a file (to ease sharing the data with others). To do so, export the scraped data to a JSON file. (Note: there will be no extra points for completing this.)
 
 Part 2: Scrape and Analyze Mars Weather Data
